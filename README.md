@@ -1,5 +1,5 @@
-# README
-My portfolio about Data Science
+# Diel Junior
+Learning Data Science to improve the world
 
-### Diel Junior
+## CONTENT
 
