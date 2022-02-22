@@ -20,3 +20,12 @@ Learning Data Science to Improve the World
 * Analist (statistical work) in public hospital: currently
 * Teacher of undergraduate business course (statistical intro and career plan) : 15 years
 * Data Scientist: starting and forever.
+
+
+# Projects in Data Science in Python
+* [PIMA INDIANS DIABETES](https://github.com/Dieljr/pythonDev/blob/master/pima_indians_diabetes.ipynb)
+* [Price House in Iowa, Iame(USA)](https://github.com/Dieljr/pythonDev/blob/master/HousePriceIowa_Final.ipynb)
+
+# Source Code to Data Science to Reuse
+* [Greedy Algorithm](https://github.com/Dieljr/pythonDev/blob/master/GreedyAlgorithms.ipynb)
+* [Linear Algebra: INTRO](Algebra_aplicada.ipynb)
