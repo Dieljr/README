@@ -14,6 +14,11 @@ Learning Data Science to Improve the World
 * Spark and hadoop for data science: basic upper level
 * PLUS: experience to interpret business problems: advantage level
 
+## Languages
+* Portuguese: Native
+* English: Intermediate Upper
+* Spanish: Intermediate Upper
+
 # Careers
 * Manager in a bank: 8 years
 * Consultant: currently
