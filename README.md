@@ -29,3 +29,6 @@ Learning Data Science to Improve the World
 # Source Code to Data Science to Reuse
 * [Greedy Algorithm](https://github.com/Dieljr/pythonDev/blob/master/GreedyAlgorithms.ipynb)
 * [Linear Algebra: INTRO](Algebra_aplicada.ipynb)
+* [Linear Regression Algorithm: explained](Linear_Regression_Algorithm.ipynb)
+* [Sthocastic Gradient Descent Regressor Algorithm: explained](SGDRegressor.ipynb)
+* [The velocity matters: Fibonacci](Fibonacci.ipynb)
