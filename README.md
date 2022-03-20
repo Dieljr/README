@@ -36,5 +36,6 @@ Learning Data Science to Improve the World
 * [Linear Algebra: INTRO](Algebra_aplicada.ipynb)
 * [Linear Regression Algorithm: explained](Linear_Regression_Algorithm.ipynb)
 * [Sthocastic Gradient Descent Regressor Algorithm: explained](SGDRegressor.ipynb)
+* [Gradient Descent with GridSearchCV algorithms: explained](GDS_Grid.ipynb)
 * [KMeans and PCA Algorithms: explained](Clustering_alg.ipynb)
 * [The velocity matters: Fibonacci](Fibonacci.ipynb)
