@@ -30,6 +30,7 @@ Learning Data Science to Improve the World
 # Projects in Data Science in Python
 * [PIMA INDIANS DIABETES](https://github.com/Dieljr/pythonDev/blob/master/pima_indians_diabetes.ipynb)
 * [Price House in Iowa, Iame(USA)](https://github.com/Dieljr/pythonDev/blob/master/HousePriceIowa_Final.ipynb)
+# What you need to know about...
 * [Linear Regression Algorithm: explained](Linear_Regression_Algorithm.ipynb)
 * [Sthocastic Gradient Descent Regressor Algorithm: explained](SGDRegressor.ipynb)
 * [Gradient Descent with GridSearchCV algorithms: explained](GDS_Grid.ipynb)
